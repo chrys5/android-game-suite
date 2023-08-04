@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SudokuBoardGrid">
+        <attr name="sudoku_board_Color" format = "color"/>
+        <attr name="selectedcellFill" format = "color"/>
+        <attr name="rowcolHighlight" format="color"/>
+        <attr name="lettersColor" format="color"/>
+        <attr name="solvedColor" format="color"/>
+    </declare-styleable>
+</resources>
